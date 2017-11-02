@@ -5,6 +5,9 @@ PDFs communicate results of code in same-named MATLAB files.
 
 Included analyses: 
 
+<b>Temperate and Precipitation Seasonal Visualizations </b>
+- Europe_Temp_Air_NOAA.pdf
+
 <b>Ozone data </b>
 - Chi-f-t-tests_observed-ozone
 - LS-Regression_ozone
